@@ -1,4 +1,5 @@
 # demo
 This is my first Git Repository
 <br>
-Author - Ipsita Sahu
+Author - Ipsita Sahu (first project)
+
